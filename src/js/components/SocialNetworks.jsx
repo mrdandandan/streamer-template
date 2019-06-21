@@ -58,17 +58,17 @@ class SocialNetworks extends Component {
         )}
         {this.props.data.merch_link && (
           <Social {...this.props} href={this.props.data.merch_link}>
-            <FontAwesomeIcon icon={faShoppingCart} />
+            <FontAwesomeIcon icon={faShoppingCart} /> Merch
           </Social>
         )}
         {this.props.data.twitter && (
           <Social {...this.props} href={`//www.twitter.com/${this.props.data.twitter}`}>
-            <FontAwesomeIcon icon={faTwitter} />
+            <FontAwesomeIcon icon={faTwitter} /> Twitter
           </Social>
         )}
         {this.props.data.youtube && (
-          <Social {...this.props} href={`//www.youtube.com/user/${this.props.data.youtube}`}>
-            <FontAwesomeIcon icon={faYoutube} />
+          <Social {...this.props} href={`//www.youtube.com/channel/${this.props.data.youtube}`}>
+            <FontAwesomeIcon icon={faYoutube} /> Youtube
           </Social>
         )}
         {this.props.data.facebook && (
@@ -78,17 +78,17 @@ class SocialNetworks extends Component {
         )}
         {this.props.data.discord && (
           <Social {...this.props} href={`//www.discord.gg/${this.props.data.discord}`}>
-            <FontAwesomeIcon icon={faDiscord} />
+            <FontAwesomeIcon icon={faDiscord} /> Discord
           </Social>
         )}
         {this.props.data.donation_link && (
           <Social {...this.props} href={this.props.data.donation_link}>
-            <FontAwesomeIcon icon={faDollarSign} />
+            <FontAwesomeIcon icon={faDollarSign} /> Donate
           </Social>
         )}
         {this.props.data.instagram && (
           <Social {...this.props} href={`//www.instagram.com/${this.props.data.instagram}`}>
-            <FontAwesomeIcon icon={faInstagram} />
+            <FontAwesomeIcon icon={faInstagram} /> Instagram
           </Social>
         )}
         {this.props.data.snapchat && (

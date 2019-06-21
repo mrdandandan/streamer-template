@@ -31242,15 +31242,15 @@ var _components = {
   }
 };
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/App.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/App.jsx',
   components: _components,
   locals: [module],
   imports: [_react3.default]
 });
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/App.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/App.jsx',
   components: _components,
   locals: [],
   imports: [_react3.default, _index2.default]
@@ -31258,7 +31258,7 @@ var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibI
 
 function _wrapComponent(id) {
   return function (Component) {
-    return _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2(_CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
+    return _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2(_DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
   };
 } // Dependencies
 
@@ -31426,15 +31426,15 @@ var _components = {
   }
 };
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Brand.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Brand.jsx',
   components: _components,
   locals: [module],
   imports: [_react3.default]
 });
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Brand.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Brand.jsx',
   components: _components,
   locals: [],
   imports: [_react3.default, _index2.default]
@@ -31442,7 +31442,7 @@ var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibI
 
 function _wrapComponent(id) {
   return function (Component) {
-    return _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2(_CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
+    return _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2(_DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
   };
 }
 
@@ -31541,15 +31541,15 @@ var _components = {
   }
 };
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Category.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Category.jsx',
   components: _components,
   locals: [module],
   imports: [_react3.default]
 });
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Category.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Category.jsx',
   components: _components,
   locals: [],
   imports: [_react3.default, _index2.default]
@@ -31557,7 +31557,7 @@ var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibI
 
 function _wrapComponent(id) {
   return function (Component) {
-    return _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2(_CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
+    return _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2(_DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
   };
 }
 
@@ -31652,15 +31652,15 @@ var _components = {
   }
 };
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/ChannelLink.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/ChannelLink.jsx',
   components: _components,
   locals: [module],
   imports: [_react3.default]
 });
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/ChannelLink.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/ChannelLink.jsx',
   components: _components,
   locals: [],
   imports: [_react3.default, _index2.default]
@@ -31668,7 +31668,7 @@ var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibI
 
 function _wrapComponent(id) {
   return function (Component) {
-    return _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2(_CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
+    return _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2(_DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
   };
 }
 
@@ -31799,15 +31799,15 @@ var _components = {
   }
 };
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Divider.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Divider.jsx',
   components: _components,
   locals: [module],
   imports: [_react3.default]
 });
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Divider.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Divider.jsx',
   components: _components,
   locals: [],
   imports: [_react3.default, _index2.default]
@@ -31815,7 +31815,7 @@ var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibI
 
 function _wrapComponent(id) {
   return function (Component) {
-    return _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2(_CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
+    return _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2(_DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
   };
 }
 
@@ -31903,15 +31903,15 @@ var _components = {
   }
 };
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Footer.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Footer.jsx',
   components: _components,
   locals: [module],
   imports: [_react3.default]
 });
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Footer.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Footer.jsx',
   components: _components,
   locals: [],
   imports: [_react3.default, _index2.default]
@@ -31919,7 +31919,7 @@ var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibI
 
 function _wrapComponent(id) {
   return function (Component) {
-    return _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2(_CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
+    return _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2(_DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
   };
 }
 
@@ -32041,15 +32041,15 @@ var _components = {
   }
 };
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Header.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Header.jsx',
   components: _components,
   locals: [module],
   imports: [_react3.default]
 });
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Header.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Header.jsx',
   components: _components,
   locals: [],
   imports: [_react3.default, _index2.default]
@@ -32057,7 +32057,7 @@ var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibI
 
 function _wrapComponent(id) {
   return function (Component) {
-    return _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2(_CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
+    return _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2(_DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
   };
 }
 
@@ -32169,15 +32169,15 @@ var _components = {
   }
 };
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Hero.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Hero.jsx',
   components: _components,
   locals: [module],
   imports: [_react3.default]
 });
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Hero.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Hero.jsx',
   components: _components,
   locals: [],
   imports: [_react3.default, _index2.default]
@@ -32185,7 +32185,7 @@ var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibI
 
 function _wrapComponent(id) {
   return function (Component) {
-    return _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2(_CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
+    return _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2(_DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
   };
 }
 
@@ -32288,15 +32288,15 @@ var _components = {
   }
 };
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/SocialNetworks.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/SocialNetworks.jsx',
   components: _components,
   locals: [module],
   imports: [_react3.default]
 });
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/SocialNetworks.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/SocialNetworks.jsx',
   components: _components,
   locals: [],
   imports: [_react3.default, _index2.default]
@@ -32304,7 +32304,7 @@ var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibI
 
 function _wrapComponent(id) {
   return function (Component) {
-    return _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2(_CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
+    return _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2(_DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
   };
 }
 
@@ -32342,17 +32342,20 @@ var SocialNetworks = _wrapComponent('SocialNetworks')(function (_Component) {
         this.props.data.merch_link && _react3.default.createElement(
           Social,
           _extends({}, this.props, { href: this.props.data.merch_link }),
-          _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeSolid.faShoppingCart })
+          _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeSolid.faShoppingCart }),
+          ' Merch'
         ),
         this.props.data.twitter && _react3.default.createElement(
           Social,
           _extends({}, this.props, { href: '//www.twitter.com/' + this.props.data.twitter }),
-          _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeBrands.faTwitter })
+          _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeBrands.faTwitter }),
+          ' Twitter'
         ),
         this.props.data.youtube && _react3.default.createElement(
           Social,
-          _extends({}, this.props, { href: '//www.youtube.com/user/' + this.props.data.youtube }),
-          _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeBrands.faYoutube })
+          _extends({}, this.props, { href: '//www.youtube.com/channel/' + this.props.data.youtube }),
+          _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeBrands.faYoutube }),
+          ' Youtube'
         ),
         this.props.data.facebook && _react3.default.createElement(
           Social,
@@ -32362,17 +32365,20 @@ var SocialNetworks = _wrapComponent('SocialNetworks')(function (_Component) {
         this.props.data.discord && _react3.default.createElement(
           Social,
           _extends({}, this.props, { href: '//www.discord.gg/' + this.props.data.discord }),
-          _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeBrands.faDiscord })
+          _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeBrands.faDiscord }),
+          ' Discord'
         ),
         this.props.data.donation_link && _react3.default.createElement(
           Social,
           _extends({}, this.props, { href: this.props.data.donation_link }),
-          _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeSolid.faDollarSign })
+          _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeSolid.faDollarSign }),
+          ' Donate'
         ),
         this.props.data.instagram && _react3.default.createElement(
           Social,
           _extends({}, this.props, { href: '//www.instagram.com/' + this.props.data.instagram }),
-          _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeBrands.faInstagram })
+          _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeBrands.faInstagram }),
+          ' Instagram'
         ),
         this.props.data.snapchat && _react3.default.createElement(
           Social,
@@ -32537,15 +32543,15 @@ var _components = {
   }
 };
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Stats.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Stats.jsx',
   components: _components,
   locals: [module],
   imports: [_react3.default]
 });
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Stats.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Stats.jsx',
   components: _components,
   locals: [],
   imports: [_react3.default, _index2.default]
@@ -32553,7 +32559,7 @@ var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibI
 
 function _wrapComponent(id) {
   return function (Component) {
-    return _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2(_CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
+    return _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2(_DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
   };
 }
 
@@ -32658,15 +32664,15 @@ var _components = {
   }
 };
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Status.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Status.jsx',
   components: _components,
   locals: [module],
   imports: [_react3.default]
 });
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/Status.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/Status.jsx',
   components: _components,
   locals: [],
   imports: [_react3.default, _index2.default]
@@ -32674,7 +32680,7 @@ var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibI
 
 function _wrapComponent(id) {
   return function (Component) {
-    return _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2(_CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
+    return _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2(_DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
   };
 }
 
@@ -32769,15 +32775,15 @@ var _components = {
   }
 };
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/StreamTitle.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2 = (0, _index6.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/StreamTitle.jsx',
   components: _components,
   locals: [module],
   imports: [_react3.default]
 });
 
-var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
-  filename: 'C:/Users/rmorr/Desktop/streamer-template/src/js/components/StreamTitle.jsx',
+var _DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2 = (0, _index4.default)({
+  filename: 'D:/Projects/mrdandandan.tv/src/js/components/StreamTitle.jsx',
   components: _components,
   locals: [],
   imports: [_react3.default, _index2.default]
@@ -32785,7 +32791,7 @@ var _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibI
 
 function _wrapComponent(id) {
   return function (Component) {
-    return _CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformHmrLibIndexJs2(_CUsersRmorrDesktopStreamerTemplateNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
+    return _DProjectsMrdandandanTvNode_modulesReactTransformHmrLibIndexJs2(_DProjectsMrdandandanTvNode_modulesReactTransformCatchErrorsLibIndexJs2(Component, id), id);
   };
 }
 
